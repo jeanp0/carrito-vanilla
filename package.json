@@ -1,0 +1,17 @@
+{
+  "name": "carrito-vanilla",
+  "version": "1.0.0",
+  "description": "probando npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "carrito"
+  ],
+  "author": "jeanp0",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
